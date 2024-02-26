@@ -1,5 +1,7 @@
 # Entrenadores Pokemon
 
+FrontEnd
+
 Clonar el proyecto
 
 Ejecutar:  
